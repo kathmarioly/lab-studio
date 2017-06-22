@@ -139,6 +139,8 @@ font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-style: italic;
 
 }
+
+
 #portafolio{
     background-color:  #eee;
     margin-top:  15px;
@@ -322,3 +324,13 @@ li{
     background-size: cover;
 }
 
+#caja-team{
+    margin-top: 600px;
+}
+
+.img-team{
+    border-radius: 100%;
+    padding: o;
+    margin-top: 100px;
+
+}
